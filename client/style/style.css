@@ -1,0 +1,12 @@
+.navbar-right.m-r-sm{margin-right: 0px !important;}
+.pageContent{margin-top: 60px;}
+
+
+h1>.fa{margin-right: 10px;}
+a>i.fa{margin-right:5px; font-size:120%}
+.btn>i.fa{margin-right:10px; font-size:120%}
+
+.m-r-xs{margin-right: 5px;}
+.m-r-sm{margin-right: 10px;}
+.m-r-md{margin-right: 20px;}
+.m-r-lg{margin-right: 30px;}
